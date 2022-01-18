@@ -1,6 +1,6 @@
 <?php
 
-$koneksi = mysqli_connect("localhost", "root", "", "toko-online");
+$koneksi = mysqli_connect("ec2-34-230-198-12.compute-1.amazonaws.com", "vbynrtowhzeols", "a3af213cba828c37ebaf76b8fa2e77ab121d57cd7f18395a60d4c79bfb80f972", "d2l9smlhltac51");
 // $koneksi = mysqli_connect("localhost", "id18259829_khoirul2009", "#Khoirul12345", "id18259829_khoirul");
 
 // Check connection
